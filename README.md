@@ -249,6 +249,6 @@ Since this code segment based on Dijkstra's algorithm,
 3.Dijkstra function prints only shortest distances from the given node.
 
 # License
-License for this project: [link](https://github.com/FOSSCODY-1/N.W.M.S.Supunnadi/blob/master/LICENSE "Click here") 
+License for this project: [Click here](https://github.com/FOSSCODY-1/N.W.M.S.Supunnadi/blob/master/LICENSE "Click here") 
 
 
