@@ -24,13 +24,13 @@ This is code to build adjacency node and there is pointer to next node as well.
 
 
 
-**struct AdListNode{**
-
+struct AdListNode{
+	
 	**int val;**
 	**int weight;**
 	**struct AdListNode *next;**
 
-**};typedef struct AdListNode LNode;**
+};typedef struct AdListNode LNode;
 
 
 
