@@ -19,6 +19,12 @@ graph * createGraph(void){
 	printf("Enter the num of nodes you need : ");
 	scanf("%d",&input);
 	
+	//chack the number of nodes
+	while(input<=0){
+		printf("Invalid number of nodes please try again : ");
+		scanf("%d",&input);
+	}
+	
 	graph *g=(graph*)malloc(sizeof(graph));
 	g->nodesNo=input;
 	
