@@ -248,3 +248,7 @@ Since this code segment based on Dijkstra's algorithm,
 
 3.Dijkstra function prints only shortest distances from the given node.
 
+# License
+License for this project: [click here] 
+
+
