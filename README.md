@@ -249,9 +249,11 @@ Since this code segment based on Dijkstra's algorithm,
 3.Dijkstra function prints only shortest distances from the given node.
 
 # Download files from here
-[ShortestPath : ](https://github.com/FOSSCODY-1/N.W.M.S.Supunnadi/blob/master/MyGraphImplementation.c "link")
+[ShortestPath : ](https://github.com/FOSSCODY-1/N.W.M.S.Supunnadi/tree/master/ShortestPathImplementation "link")
+
 [Graph Implementation : ](https://github.com/FOSSCODY-1/N.W.M.S.Supunnadi/blob/master/MyGraphImplementation.c "link")
-[Test outputs : ](https://github.com/FOSSCODY-1/N.W.M.S.Supunnadi/blob/master/MyGraphImplementation.c "link")
+
+[Test outputs : ](https://github.com/FOSSCODY-1/N.W.M.S.Supunnadi/tree/master/outputs "link")
 
 # License
 License for this project: [Click here](https://github.com/FOSSCODY-1/N.W.M.S.Supunnadi/blob/master/LICENSE "Click here") 
