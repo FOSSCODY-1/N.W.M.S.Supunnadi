@@ -156,7 +156,7 @@ The if statement checks whether the node is already read or not.
 	}
 
 This function prints nodes and the minimum total distance from given source 
-​	
+	
 	void printSPT(int src,int dist[],int size){
 		printf("\nVertex distance from given Node :%d \n\n",src);
 		printf("Vertex\tDistance\n");
