@@ -128,6 +128,7 @@ void buildEdges(graph *g){
 
 ***Prerequisites for Code to work :***
 
+- Need an IDE(Intergarted Development Environment) which supported to C
 - In here to implement the graph you should know the exact number of vertices you have.
 - The one who execute the program cannot give ***“-1”*** as an adjacency node in this graph implementation because it’s the terminating value of while loop.
 - “0”cannot be included in this graph because ***createGraph*** **function** always **generates values from starting 1**
