@@ -22,13 +22,20 @@ In here adjacency nodes hold the weight and adjacency list has a pointer to node
 
 This is code to build adjacency node and there is pointer to next node as well.
 
+
+
 **struct AdListNode{**
-​	**int val;**
-​	**int weight;**
-​	**struct AdListNode *next;**
+
+	**int val;**
+	**int weight;**
+	**struct AdListNode *next;**
+
 **};typedef struct AdListNode LNode;**
 
+
+
 In this the data variable holds value we enter as the vertex. According to the above example they are 0,1,2,3.
+
 
 **struct AdList{**
 ​	**int data;**
